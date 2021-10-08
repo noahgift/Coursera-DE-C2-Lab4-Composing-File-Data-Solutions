@@ -13,6 +13,6 @@ Now that you have learned to search with the `find` command let's put this to us
 
 ### Part 2:  Search for file types
 
-1.  Search for all of the csv files in `docs` `find -name "*.csv"`
+1.  Search for all of the csv files in `docs` directory:  `find -name "*.csv"`
 2.  How many did you find?
 3.  Can you search for files with the `.txt` extension?  How many do you find?
